@@ -22,6 +22,7 @@
 - Элементы сайта
   - [Общие данные](site-content/common-elements.md)
   - [Языкозависимые данные](site-content/language-dependent-elements.md)
+  - [Авторы](site-content/authors.md)
   - [Специальные изображения](site-content/special-images.md)
 
 - Публикация изменений

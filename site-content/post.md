@@ -17,13 +17,14 @@
 featured: false
 
 # Поле **author**, необязательное.
-# Содержит список имен авторов. 
+# Содержит список e-mail адресов авторов. 
 # Используется для SEO в микроразметке schema.org, OpenGraph и Twitter Card
+# По e-mail во время генерации сайта берутся имя и фамилия автора из файла `authors.{locale}.yaml`
 author: 
-  - Иванов И.
-  - Петров П.
+  - ivanov@sample.com
+  - petrov@sample.com
 # Альтернативно список может быть оформлен так
-# author: ["Иванов И.", "Петров П."]
+# author: ["ivanov@sample.com", "petrov@sample.com"]
 
 ---
 ```
